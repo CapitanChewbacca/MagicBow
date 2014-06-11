@@ -1,0 +1,8 @@
+name: MagicBow
+version: 1.0
+main: com.capitanchewbacca.magicbow.Main
+author: C_Chewbacca
+
+commands:
+    magicbow:
+        usage: /<command> [true|false]
